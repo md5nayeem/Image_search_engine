@@ -1,0 +1,15 @@
+{
+  "ignoreUnresolved": [],
+  "ignoreUnused": [
+    "@mui/icons-material",
+    "@mui/joy",
+    "@mui/styled-engine-sc",
+    "@testing-library/jest-dom",
+    "@testing-library/react",
+    "@testing-library/user-event",
+    "react-scripts"
+  ],
+  "ignoreUnimported": [
+    "src/setupTests.js"
+  ]
+}
