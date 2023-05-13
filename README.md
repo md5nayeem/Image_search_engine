@@ -11,7 +11,7 @@ This GitHub repository contains a ReactJS web application that allows users to s
 
 ## Live Preview
 
-https://md5nayeem.github.io/Image_search_engine/
+https://md5nayeem-image-search-engine.netlify.app/
 
 
 ## Installation
